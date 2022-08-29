@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.linusmuema.slider.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.linusmuema.slider.MyBundle
 
 class MyApplicationService {
 

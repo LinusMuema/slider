@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.linusmuema.slider.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.linusmuema.slider.MyBundle
 
 class MyProjectService(project: Project) {
 
